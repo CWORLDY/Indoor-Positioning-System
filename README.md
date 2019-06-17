@@ -1,2 +1,4 @@
 # Indoor-Positioning-System
 The "intelligent positioning system for indoor venues" is an indoor positioning system that can achieve low power consumption performance and achieve high precision positioning for a variety of indoor scenes, using Bluetooth Low Energy (BLE)/MEMS fusion technology. The innovation of the system lies in self-adaptive layout Access Point (AP), the fast construction of the location fingerprint database, the automatic updating of fingerprint database and the precision positioning algorithm, so as to avoids the shortcomings of traditional fingerprint localization system, such as heavy construction of fingerprint database, difficulty in keeping high positioning accuracy and so on.
+
+![ads](https://github.com/CWORLDY/Indoor-Positioning-System/blob/master/document/experiment%20photo/2.jpg)  
