@@ -31,51 +31,102 @@
 本系统主要由四个模块组成，分别为速度与航向角解算模块、蓝牙指纹定位模块、融合定位模块和指纹库自适应更新模块。
 
 
-<div align=center>
-        
+
+<div align=left>    
+  
 **系统框架**     
+  <div align=center>
 ![4](https://github.com/CWORLDY/Indoor-Positioning-System/blob/master/document/experiment%20photo/3.png)        
 
      
-     
+<div align=left>    
+  
 **速度解算**   
+
+<div align=center>
+
+
+
   ![5](https://github.com/CWORLDY/Indoor-Positioning-System/blob/master/document/experiment%20photo/4.png)       
        
       
   
+<div align=left>    
+  
  **MEMS航向解算**   
-  ![6](https://github.com/CWORLDY/Indoor-Positioning-System/blob/master/document/experiment%20photo/5.png)     
+
+<div align=center>
+ 
+ 
+![6](https://github.com/CWORLDY/Indoor-Positioning-System/blob/master/document/experiment%20photo/5.png)     
         
       
+
+<div align=left>    
   
-  **指纹建库**   
+   **指纹建库**   
+
+<div align=center>
+  
   ![7](https://github.com/CWORLDY/Indoor-Positioning-System/blob/master/document/experiment%20photo/6.png)    
        
-     
-  **指纹库更新**   
+       
+<div align=left>    
+  
+**指纹库更新**  
+
+<div align=center>
+  
   ![8](https://github.com/CWORLDY/Indoor-Positioning-System/blob/master/document/experiment%20photo/7.png)    
     
 <div align=left> 
     
 # 实验结果
 
+
+<div align=left>    
+  
  **融合定位**   
+
+<div align=center> 
+
+
+
 ![7](https://github.com/CWORLDY/Indoor-Positioning-System/blob/master/document/experiment%20photo/2.png)  
   
-       
- **指纹库自适应更新**     
+
+<div align=left>    
+  
+ **指纹库自适应更新**    
+
+<div align=center> 
+
+    
 ![8](https://github.com/CWORLDY/Indoor-Positioning-System/blob/master/document/experiment%20photo/14.png)  
   
   ![9](https://github.com/CWORLDY/Indoor-Positioning-System/blob/master/document/experiment%20photo/15.png)  
         
            
   
-    
- **快速构建位置指纹数据库**   
+<div align=left>    
+  
+ **快速构建位置指纹数据库**    
+
+<div align=center> 
+
+
+ 
 ![10](https://github.com/CWORLDY/Indoor-Positioning-System/blob/master/document/experiment%20photo/13.png)  
        
-           
- **自适应AP布局**     
+       
+       
+   
+<div align=left>    
+  
+  **自适应AP布局**    
+
+<div align=center>       
+  
 ![11](https://github.com/CWORLDY/Indoor-Positioning-System/blob/master/document/experiment%20photo/10.png)
   
  ![12](https://github.com/CWORLDY/Indoor-Positioning-System/blob/master/document/experiment%20photo/12.png)  
