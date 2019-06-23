@@ -6,16 +6,16 @@
 
 <div align=center>
 
-![adssdsdfs](https://github.com/CWORLDY/Indoor-Positioning-System/blob/master/document/experiment%20photo/2.png)  
+![adssdsdfs](https://github.com/CWORLDY/Indoor-Positioning-System/blob/master/document/experiment%20photo/2.png)    
 
   
-  ![adssdsdfs](https://github.com/CWORLDY/Indoor-Positioning-System/blob/master/document/experiment%20photo/9.png)  
-    
+  ![adssdsdfs](https://github.com/CWORLDY/Indoor-Positioning-System/blob/master/document/experiment%20photo/9.png)    
+/////////////////////////////////////////////////////////////////////////////////////
 
-<div align=left>             
-
-![adssdsdfs](https://github.com/CWORLDY/Indoor-Positioning-System/blob/master/document/experiment%20photo/1.png)  
-
+![adssdsdfs](https://github.com/CWORLDY/Indoor-Positioning-System/blob/master/document/experiment%20photo/1.png)    
+  
+<div align=left>       
+  
 ## 主要工作
 1 **提出自适应AP布局算法**  
      提出一种基于贪心算法的自适应AP布局算法，以仿真指纹库的区分度为目标函数优化AP布局，经过多次迭代达到最优布局或者接近最优布局，较传统布局方法准确性更高且节约大量成本。  
