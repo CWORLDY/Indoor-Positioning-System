@@ -1,18 +1,20 @@
 
 # 项目简介
 “面向室内场馆的智能定位系统”是一个能够针对多种室内场景，采用低功耗蓝牙（Bluetooth Low Energy, BLE）/MEMS融合技术，达到低功耗性能，实现高精度定位功能的室内定位系统。该系统的创新点在于自适应布局信号接入点（Access Point，AP）、快速构建位置指纹数据库、指纹库自动更新和精准定位算法等，避免了传统指纹定位系统的指纹库构建工作繁重、保持高定位精度困难等缺点。  
-
-实验结果表明，本作品设计的室内定位系统，利用自主设计的服务器及手机终端APP，能够对多种室内环境自适应快速部署定位系统并保持较高的定位精度。相比传统的指纹定位系统，本套定位系统的建库工作量减小80%以上，定位精度达到1.5米，实时响应时间为1秒。综上，本作品积极响应国家对导航与位置服务的新要求和节能减排的战略需求，成功研制了一整套智能定位系统，实现低功耗性能，同时突破了多项室内高精度定位关键技术问题，具有较大的应用前景。
-
+实验结果表明，本系统利用自主设计的服务器及手机终端APP，能够对多种室内环境自适应快速部署定位系统并保持较高的定位精度。相比传统的指纹定位系统，本套定位系统的建库工作量减小80%以上，定位精度达到1.5米，实时响应时间为1秒。综上，本作品积极响应国家对导航与位置服务的新要求和节能减排的战略需求，成功研制了一整套智能定位系统，实现低功耗性能，同时突破了多项室内高精度定位关键技术问题，具有较大的应用前景。
 
 
 <div align=center>
 
-![adssdsdfs](https://github.com/CWORLDY/Golf-intelligent-cruise-car-system/blob/master/document/photo/5.png)  
+![adssdsdfs](https://github.com/CWORLDY/Indoor-Positioning-System/blob/master/document/experiment%20photo/2.png)  
+
+  
+  ![adssdsdfs](https://github.com/CWORLDY/Indoor-Positioning-System/blob/master/document/experiment%20photo/9.png)  
+    
 
 <div align=left>             
 
-![adssdsdfs](https://github.com/CWORLDY/Golf-intelligent-cruise-car-system/blob/master/document/photo/1.jpg)
+![adssdsdfs](https://github.com/CWORLDY/Indoor-Positioning-System/blob/master/document/experiment%20photo/1.png)  
 
 ## 主要工作
 1 **提出自适应AP布局算法**  
@@ -29,24 +31,38 @@
 # 框架原理
 本系统主要由四个模块组成，分别为速度与航向角解算模块、蓝牙指纹定位模块、融合定位模块和指纹库自适应更新模块。
 
-![adssdsdfs](https://github.com/CWORLDY/Golf-intelligent-cruise-car-system/blob/master/document/photo/7.jpg)
+![adssdsdfs](https://github.com/CWORLDY/Indoor-Positioning-System/blob/master/document/experiment%20photo/3.png)  
+  
+  ![adssdsdfs](https://github.com/CWORLDY/Indoor-Positioning-System/blob/master/document/experiment%20photo/4.png)  
+  
+  ![adssdsdfs](https://github.com/CWORLDY/Indoor-Positioning-System/blob/master/document/experiment%20photo/5.png)    
+  
+  ![adssdsdfs](https://github.com/CWORLDY/Indoor-Positioning-System/blob/master/document/experiment%20photo/6.png)    
+  
+  ![adssdsdfs](https://github.com/CWORLDY/Indoor-Positioning-System/blob/master/document/experiment%20photo/7.png)  
 
 
 # 实验结果
 
  **融合定位**
-![adssdsdfs](https://github.com/CWORLDY/Golf-intelligent-cruise-car-system/blob/master/document/photo/122.png)
+![adssdsdfs](https://github.com/CWORLDY/Indoor-Positioning-System/blob/master/document/experiment%20photo/2.png)  
   
     
  **指纹库自适应更新**
-![adssdsdfs](https://github.com/CWORLDY/Golf-intelligent-cruise-car-system/blob/master/document/photo/15.jpg)
+![adssdsdfs](https://github.com/CWORLDY/Indoor-Positioning-System/blob/master/document/experiment%20photo/14.png)  
+  
+  ![adssdsdfs](https://github.com/CWORLDY/Indoor-Positioning-System/blob/master/document/experiment%20photo/15.png)  
+    
   
     
  **快速构建位置指纹数据库**
-![adssdsdfs](https://github.com/CWORLDY/Golf-intelligent-cruise-car-system/blob/master/document/photo/9.png)
+![adssdsdfs](https://github.com/CWORLDY/Indoor-Positioning-System/blob/master/document/experiment%20photo/13.png)  
   
  **自适应AP布局**  
-![adssdsdfs](https://github.com/CWORLDY/Golf-intelligent-cruise-car-system/blob/master/document/photo/实地测试.png)
+![adssdsdfs](https://github.com/CWORLDY/Indoor-Positioning-System/blob/master/document/experiment%20photo/10.png)
+  
+ ![adssdsdfs](https://github.com/CWORLDY/Indoor-Positioning-System/blob/master/document/experiment%20photo/12.png)  
+   
 
 
 
