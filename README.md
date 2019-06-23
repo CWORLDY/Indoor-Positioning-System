@@ -11,6 +11,7 @@
   
 ![2](https://github.com/CWORLDY/Indoor-Positioning-System/blob/master/document/experiment%20photo/9.png)      
 
+
 ![3](https://github.com/CWORLDY/Indoor-Positioning-System/blob/master/document/experiment%20photo/1.png)    
   
 <div align=left>       
@@ -32,45 +33,48 @@
 
 <div align=center>
         
-**系统框架**   
+**系统框架**     
 ![4](https://github.com/CWORLDY/Indoor-Positioning-System/blob/master/document/experiment%20photo/3.png)        
 
-
-
+     
+     
 **速度解算**   
   ![5](https://github.com/CWORLDY/Indoor-Positioning-System/blob/master/document/experiment%20photo/4.png)       
-  
-  
+       
+      
   
  **MEMS航向解算**   
   ![6](https://github.com/CWORLDY/Indoor-Positioning-System/blob/master/document/experiment%20photo/5.png)     
-  
-  
+        
+      
   
   **指纹建库**   
   ![7](https://github.com/CWORLDY/Indoor-Positioning-System/blob/master/document/experiment%20photo/6.png)    
-  
-  
+       
+     
   **指纹库更新**   
   ![8](https://github.com/CWORLDY/Indoor-Positioning-System/blob/master/document/experiment%20photo/7.png)    
-
-
+    
+<div align=left> 
+    
 # 实验结果
 
  **融合定位**   
 ![7](https://github.com/CWORLDY/Indoor-Positioning-System/blob/master/document/experiment%20photo/2.png)  
   
-    
- **指纹库自适应更新**   
+       
+ **指纹库自适应更新**     
 ![8](https://github.com/CWORLDY/Indoor-Positioning-System/blob/master/document/experiment%20photo/14.png)  
   
   ![9](https://github.com/CWORLDY/Indoor-Positioning-System/blob/master/document/experiment%20photo/15.png)  
-    
+        
+           
   
     
  **快速构建位置指纹数据库**   
 ![10](https://github.com/CWORLDY/Indoor-Positioning-System/blob/master/document/experiment%20photo/13.png)  
-  
+       
+           
  **自适应AP布局**     
 ![11](https://github.com/CWORLDY/Indoor-Positioning-System/blob/master/document/experiment%20photo/10.png)
   
